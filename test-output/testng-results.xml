@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Login" duration-ms="93126" started-at="2021-06-01T10:03:41 IST" finished-at="2021-06-01T10:05:14 IST">
+    <groups>
+    </groups>
+    <test name="Login Test" duration-ms="93126" started-at="2021-06-01T10:03:41 IST" finished-at="2021-06-01T10:05:14 IST">
+      <class name="testCase.Login.AdduserTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCase.Login.AdduserTest@553a3d88]" name="setup" is-config="true" duration-ms="36798" started-at="2021-06-01T10:03:41 IST" finished-at="2021-06-01T10:04:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="navigateToemp()[pri:0, instance:testCase.Login.AdduserTest@553a3d88]" name="navigateToemp" duration-ms="11930" started-at="2021-06-01T10:04:18 IST" finished-at="2021-06-01T10:04:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToemp -->
+        <test-method status="PASS" signature="verifyNavigation()[pri:1, instance:testCase.Login.AdduserTest@553a3d88]" name="verifyNavigation" duration-ms="48" started-at="2021-06-01T10:04:30 IST" finished-at="2021-06-01T10:04:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNavigation -->
+        <test-method status="PASS" signature="AddEmloyee()[pri:2, instance:testCase.Login.AdduserTest@553a3d88]" name="AddEmloyee" duration-ms="34828" started-at="2021-06-01T10:04:30 IST" finished-at="2021-06-01T10:05:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddEmloyee -->
+        <test-method status="PASS" signature="addJobDetails()[pri:3, instance:testCase.Login.AdduserTest@553a3d88]" name="addJobDetails" duration-ms="9477" started-at="2021-06-01T10:05:05 IST" finished-at="2021-06-01T10:05:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addJobDetails -->
+      </class> <!-- testCase.Login.AdduserTest -->
+    </test> <!-- Login Test -->
+  </suite> <!-- Login -->
+</testng-results>
